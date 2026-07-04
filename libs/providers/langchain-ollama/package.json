@@ -41,7 +41,7 @@
     "dpdm": "^3.14.0",
     "typescript": "~6.0.3",
     "zod": "^3.25.76",
-    "vitest": "^4.1.8"
+    "vitest": "^4.1.9"
   },
   "publishConfig": {
     "access": "public"

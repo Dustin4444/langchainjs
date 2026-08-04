@@ -41,7 +41,7 @@
     "@tsconfig/recommended": "^1.0.3",
     "@vitest/coverage-v8": "^4.1.10",
     "dotenv": "^17.4.0",
-    "dpdm": "^3.14.0",
+    "dpdm": "^4.0.1",
     "typescript": "~7.0.2",
     "vitest": "^4.1.8",
     "zod": "^3.25.76"

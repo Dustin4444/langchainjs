@@ -82,7 +82,7 @@
     "langchain": "workspace:*",
     "lorem-ipsum": "^3.0.0",
     "lunary": "^1.0.18",
-    "mariadb": "^3.5.3",
+    "mariadb": "^3.5.4",
     "mem0ai": "^3.1.7",
     "mongodb": "^7.1.1",
     "pg": "^8.23.0",
